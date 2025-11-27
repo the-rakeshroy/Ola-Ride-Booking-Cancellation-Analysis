@@ -1,4 +1,4 @@
-# Ola Ride Booking & Cancellation Analysis
+# ![Ola Ride Booking & Cancellation Analysis](dashboards/01_overall_dashboard.png)
 
 ## 📌 Project Overview  
 This project presents an end-to-end data analysis of Ola ride bookings with a
