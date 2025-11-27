@@ -1,48 +1,76 @@
 # Ola Ride Booking & Cancellation Analysis
 
-## 📌 Project Overview
-This project analyzes Ola ride booking data to identify the key reasons behind
-ride cancellations by customers and drivers, and to provide actionable insights
-to reduce cancellation rates and improve overall business performance.
+## 📌 Project Overview  
+This project presents an end-to-end data analysis of Ola ride bookings with a
+focus on understanding customer and driver-led cancellations. The objective
+is to identify key cancellation drivers, evaluate booking and revenue trends,
+and provide data-backed insights to improve operational efficiency and
+customer experience.
+
+---
 
 ## 🎯 Business Objectives
-- Keep customer cancellation rate below **7%**
+- Maintain customer cancellation rate below **7%**
 - Keep driver cancellation rate below **18%**
-- Maintain incomplete rides under **6%**
-- Increase order volume and booking value on weekends
-- Analyze vehicle performance, revenue, and ratings
+- Limit incomplete rides to under **6%**
+- Increase weekend order volume and total booking value
+- Evaluate vehicle-wise performance, revenue contribution, and ratings
 
-## 🛠 Tools Used
-- **Excel** – Data cleaning and preprocessing
-- **SQL** – Business-focused analysis and queries
-- **Power BI** – Interactive dashboards and visual insights
+---
+
+## 🛠 Tools & Technologies
+- **Excel** – Data cleaning, preprocessing, and validation  
+- **SQL** – Exploratory analysis and business-focused queries  
+- **Power BI** – Interactive dashboards and KPI visualization  
+
+---
 
 ## 📊 Power BI Dashboards
 
-### 1️⃣ Overall Performance
+### 1️⃣ Overall Performance Dashboard
+Tracks total bookings, booking value, ride trends, and booking success rate.
 ![Overall](dashboards/01_overall_dashboard.png)
 
-### 2️⃣ Vehicle Type Analysis
+### 2️⃣ Vehicle Type Analysis Dashboard
+Compares booking value, success rate, and distance traveled across vehicle types.
 ![Vehicle](dashboards/02_vehicle_type_dashboard.png)
 
-### 3️⃣ Revenue Analysis
+### 3️⃣ Revenue Analysis Dashboard
+Analyzes revenue trends, payment methods, and top customers.
 ![Revenue](dashboards/03_revenue_dashboard.png)
 
-### 4️⃣ Cancellation Analysis
+### 4️⃣ Cancellation Analysis Dashboard
+Identifies cancellation reasons from both customer and driver perspectives.
 ![Cancellation](dashboards/04_cancellation_dashboard.png)
 
-### 5️⃣ Ratings Analysis
+### 5️⃣ Ratings Analysis Dashboard
+Evaluates driver and customer ratings across different vehicle categories.
 ![Ratings](dashboards/05_ratings_dashboard.png)
+
+---
+
+## 🔍 Key Insights
+- Driver-initiated cancellations contribute a major share of booking failures  
+- Weekend demand shows strong potential for higher bookings and revenue  
+- Certain vehicle categories consistently outperform others in distance and ratings  
+- Digital payment methods (UPI, card) are associated with better ride completion rates  
+
+---
+
+## ✅ Business Recommendations
+- Introduce driver-level cancellation incentives and penalties  
+- Promote high-performing vehicle categories during peak hours  
+- Strengthen digital payment adoption to reduce ride friction  
+- Optimize weekend pricing and availability strategies  
+
+---
 
 ## 📁 Repository Structure
 
-## 🔍 Key Insights
-- Driver cancellations contribute significantly to overall booking failures
-- Weekend demand shows higher booking and revenue potential
-- Certain vehicle types perform better in terms of distance and ratings
-- Digital payment methods contribute to smoother ride completion
+---
 
 ## ✅ Conclusion
-This end-to-end data analytics project demonstrates how Excel, SQL, and Power BI
-can be used together to analyze real-world business problems and support
-data-driven decision-making.
+This project demonstrates an end-to-end analytics workflow using Excel, SQL,
+and Power BI to solve a real-world business problem. The insights generated can
+support data-driven decision-making to reduce cancellations, improve ride
+success rates, and enhance overall platform performance.
