@@ -1,8 +1,8 @@
-# Ola Ride Booking & Cancellation Analysis
-![Banner](dashboards/01_Overall_dashboard.png)
-
+# Ola Ride Booking & Cancellation Analysis — SQL + Python End-to-End Project
 
 ## 📌 Project Overview  
+![Banner](dashboards/01_Overall_dashboard.png)
+
 This project presents an end-to-end data analysis of Ola ride bookings with a
 focus on understanding customer and driver-led cancellations. The objective
 is to identify key cancellation drivers, evaluate booking and revenue trends,
