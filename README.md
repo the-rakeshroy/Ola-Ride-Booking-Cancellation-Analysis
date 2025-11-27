@@ -29,25 +29,51 @@ customer experience.
 
 ## 📊 Power BI Dashboards
 
-### 1️⃣ Overall Performance Dashboard
-Tracks total bookings, booking value, ride trends, and booking success rate.
-![Overall](dashboards/01_overall_dashboard.png)
+### 1️⃣ Overall Performance Dashboard  
+Tracks total bookings, booking value, ride trends, and booking success rate.  
+👉 ![Overall](dashboards/01_overall_dashboard.png)
 
-### 2️⃣ Vehicle Type Analysis Dashboard
-Compares booking value, success rate, and distance traveled across vehicle types.
-![Vehicle](dashboards/02_vehicle_type_dashboard.png)
+### 2️⃣ Vehicle Type Analysis Dashboard  
+Compares booking value, success rate, and distance traveled across vehicle types.  
+👉 ![Vehicle](dashboards/02_vehicle_type_dashboard.png)
 
-### 3️⃣ Revenue Analysis Dashboard
-Analyzes revenue trends, payment methods, and top customers.
-![Revenue](dashboards/03_revenue_dashboard.png)
+### 3️⃣ Revenue Analysis Dashboard  
+Analyzes revenue trends, payment methods, and top customers.  
+👉 ![Revenue](dashboards/03_revenue_dashboard.png)
 
-### 4️⃣ Cancellation Analysis Dashboard
-Identifies cancellation reasons from both customer and driver perspectives.
-![Cancellation](dashboards/04_cancellation_dashboard.png)
+### 4️⃣ Cancellation Analysis Dashboard  
+Identifies cancellation reasons from both customer and driver perspectives.  
+👉 ![Cancellation](dashboards/04_cancellation_dashboard.png)
 
-### 5️⃣ Ratings Analysis Dashboard
-Evaluates driver and customer ratings across different vehicle categories.
-![Ratings](dashboards/05_ratings_dashboard.png)
+### 5️⃣ Ratings Analysis Dashboard  
+Evaluates driver and customer ratings across different vehicle categories.  
+👉 ![Ratings](dashboards/05_ratings_dashboard.png)
+
+---
+
+## 🧠 SQL Analysis (Business Questions & Scope)
+
+SQL was used extensively to explore booking performance, cancellation behavior,
+revenue contribution, and operational efficiency across multiple dimensions of
+Ola ride data.
+
+### ✅ Key Business Questions Addressed Through SQL
+
+1. What is the overall ride booking success rate across all orders?
+2. How are ride cancellations distributed between customers and drivers?
+3. Which vehicle categories show the highest cancellation tendencies?
+4. Does payment method influence ride completion and cancellation behavior?
+5. What are the peak booking hours during a typical day?
+6. How does weekend demand compare to weekday demand in terms of bookings?
+7. Which vehicle types contribute the highest share of total revenue?
+8. What is the average trip distance and fare value by vehicle category?
+9. How do driver and customer ratings differ across vehicle segments?
+10. What percentage of total bookings result in incomplete rides?
+11. How do booking and cancellation trends evolve over time on a daily basis?
+12. Which vehicle categories rank highest based on revenue performance?
+
+📂 **Full SQL Queries & Data Models**  
+👉 `sql/Ola_data_queries.sql`
 
 ---
 
