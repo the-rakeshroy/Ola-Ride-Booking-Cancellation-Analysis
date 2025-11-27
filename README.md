@@ -51,28 +51,34 @@ Evaluates driver and customer ratings across different vehicle categories.
 
 ---
 
-## 🧠 SQL Analysis (Business Questions & Scope)
+## 🧠 SQL Analysis (Business Questions Covered)
 
-SQL was used extensively to explore booking performance, cancellation behavior,
-revenue contribution, and operational efficiency across multiple dimensions of
-Ola ride data.
+SQL was used to analyze booking patterns, cancellation behavior, revenue
+performance, and service quality across Ola ride data.
 
 ### ✅ Key Business Questions Addressed Through SQL
 
-1. What is the overall ride booking success rate across all orders?
-2. How are ride cancellations distributed between customers and drivers?
-3. Which vehicle categories show the highest cancellation tendencies?
-4. Does payment method influence ride completion and cancellation behavior?
-5. What are the peak booking hours during a typical day?
-6. How does weekend demand compare to weekday demand in terms of bookings?
-7. Which vehicle types contribute the highest share of total revenue?
-8. What is the average trip distance and fare value by vehicle category?
-9. How do driver and customer ratings differ across vehicle segments?
-10. What percentage of total bookings result in incomplete rides?
-11. How do booking and cancellation trends evolve over time on a daily basis?
-12. Which vehicle categories rank highest based on revenue performance?
+1️⃣ 📊 What is the overall ride booking success rate?  
 
-📂 **Full SQL Queries & Data Models**  
+2️⃣ 🚫 How are ride cancellations distributed between customers and drivers?  
+
+3️⃣ 🚗 Which vehicle categories experience the highest cancellation rates?  
+
+4️⃣ 💳 Does the payment method influence ride completion and cancellation?  
+
+5️⃣ ⏰ What are the peak booking hours during the day?  
+
+6️⃣ 📆 How does weekend demand compare with weekday demand?  
+
+7️⃣ 💰 Which vehicle types contribute the most to total revenue?  
+
+8️⃣ 📏 What is the average trip distance and fare by vehicle category?  
+
+9️⃣ ⭐ How do driver and customer ratings vary across vehicle segments?  
+
+🔟 ❗ What percentage of total bookings result in incomplete rides?
+
+📂 **Complete SQL Queries & Analysis**  
 👉 `sql/Ola_data_queries.sql`
 
 ---
