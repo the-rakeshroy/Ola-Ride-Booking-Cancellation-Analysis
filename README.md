@@ -1,4 +1,4 @@
-# Ola Ride Booking & Cancellation Analysis — SQL + Python End-to-End Project
+# Ola Ride Booking & Cancellation Analysis — SQL + Power Bi End-to-End Project
 
 ## 📌 Project Overview  
 ![Banner](dashboards/01_Overall_dashboard.png)
@@ -51,7 +51,7 @@ Evaluates driver and customer ratings across different vehicle categories.
 
 ---
 
-## 🧠 SQL Analysis (Business Questions Covered)
+## 🧠 SQL Analysis – Business Questions Solved Using Data
 
 SQL was used to analyze booking patterns, cancellation behavior, revenue
 performance, and service quality across Ola ride data.
