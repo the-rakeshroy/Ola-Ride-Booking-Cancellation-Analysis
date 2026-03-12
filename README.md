@@ -101,6 +101,14 @@ performance, and service quality across Ola ride data.
 ---
 
 ## 📁 Repository Structure
+```
+📦 Repository Structure
+
+├── Data/
+├── SQL/
+├── Dashboards/
+└── README.md
+```
 
 ---
 
