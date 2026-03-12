@@ -1,0 +1,20 @@
+# Large files
+*.xlsx
+*.xls
+*.csv
+*.pptx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.tmp
+*~
